@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kelan6
 - 👀 I’m interested in learning how to code and becoming a software engineer
-- 🌱 I’m currently learning Vanilla JS, HTML and working on the ODIN Project
-- 💞️ I’m looking to collaborate on anything new
+- 🌱 I’m currently know Vanilla JS, React, Ruby and Ruby on Rails
+- ✍🏻 I am a Flatiron Grad working to learn TypeScript and Java
 - 📫 How to reach me photiushamman@icloud.com
 
 <!---
