@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kelan6
-- 👀 I’m interested in learning how to code and becoming a software engineer
+- 👀 I’m interested in breaking into the Software Engineering world
 - 🌱 I’m currently know Vanilla JS, React, Ruby and Ruby on Rails
 - ✍🏻 I am a Flatiron Grad working to learn TypeScript and Java
 - 📫 How to reach me photiushamman@icloud.com
